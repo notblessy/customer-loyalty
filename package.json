@@ -1,0 +1,24 @@
+{
+  "name": "customer-loyalty",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "loyalty": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notblessy/customer-loyalty.git"
+  },
+  "author": "notblessy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notblessy/customer-loyalty/issues"
+  },
+  "homepage": "https://github.com/notblessy/customer-loyalty#readme",
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
+}
