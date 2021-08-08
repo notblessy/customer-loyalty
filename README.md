@@ -56,6 +56,14 @@ Example output:
 }
 ```
 
+## Test
+
+This CLI use Jest. To run the unit test:
+
+```sh
+$ npm run test
+```
+
 ## Author
 
 ```
